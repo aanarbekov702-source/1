@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+}
+.nav-links {
+  display: flex;
+  gap: 40px;
+}
+button {
+  background-color: orange;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+}
+
+a {
+  text-decoration: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.hero {
+  display: flex;
+  gap: 90px;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    width: 236;
+    height: 29;
+    top: 287px;
+    left: 224px;
+    opacity: 1;
+  }
+  p {
+    width: 436;
+    height: 46;
+    top: 489px;
+    left: 224px;
+    opacity: 0.6;
+  }
+  h1 {
+    width: 531;
+    height: 148;
+    top: 321px;
+    left: 224px;
+    opacity: 1;
+  }
+}
+
+.btnstaart {
+  display: flex;
+  gap: 30px;
+}
+.treeth {
+  display: flex;
+  flex-direction: column;
+  margin-right: 200px;
+  font-size: 30px;
+  margin-top: 100px;
+  flex-direction: row-reverse;
+}
+
+.atwo {
+  font-size: 20px;
+  color: #5454d4;
+}
+
+.mimi-img {
+  margin-right: 220px;
+}
+
+.twothpages {
+  padding-top: 150px;
+}
+
+h1 {
+  width: 496;
+  height: 122;
+  top: 987px;
+  left: 892px;
+  opacity: 1;
+}
+p {
+  width: 503;
+  height: 90;
+  top: 1129px;
+  left: 892px;
+  opacity: 0.6;
+}
+text {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  justify-content: center;
+  display: flex;
+}
